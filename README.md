@@ -13,10 +13,12 @@ An interactive evolutionary biology engine for constructing, editing, and visual
 ## ✨ Features
 
 * **Live Data Matrix:** Create and edit phylogenetic character matrices in real time.
-* **Interactive Cladograms:** Visualize branching relationships with time-calibrated evolutionary trees.
+* **Interactive Cladograms:** Generate dynamic evolutionary trees from matrix data.
+* **Customizable Nodes:** Add, edit, rename, and reorganize taxa with fully editable phylogenetic nodes.
+* **Adjustable Timelines:** Modify evolutionary timelines instantly through the inline database matrix system.
+* **Tabbed Workspace:** Manage multiple organisms and evolutionary datasets using a browser-style tab interface.
 * **Evolutionary Mapping:** Explore lineage divergence from early amniotes to major vertebrate clades.
-* **Modular Architecture:** Component-based framework designed for scalable scientific visualization.
-* **Developer Tools:** Built-in debugging and trait manipulation for rapid development and testing.
+* **Developer Tools:** Built-in debugging and live trait manipulation for rapid testing.
 
 ---
 
@@ -26,7 +28,7 @@ An interactive evolutionary biology engine for constructing, editing, and visual
 
 ---
 
-## 🚀 Built With & Hosted On
+## 🚀 Build & Hosting
 
 * **Built With:** HTML • CSS • JavaScript
 * **Database & Asset Delivery:** Supabase
