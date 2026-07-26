@@ -36,6 +36,16 @@ An interactive evolutionary biology engine for constructing, editing, and visual
 
 ---
 
+## 🤝 Credits
+
+* **Claude Opus 4.8:** Code Architecture
+* **Replit:** Profile Card Design
+* **Supabase:** Asset Rendering
+* **Moonshot AI:** Debugging & Code Improvements
+* **OpenAI:** Scientific Asset Redesign Based on Fossil Evidence
+
+---
+
 ## 📜 License
 
 GPL-3.0
