@@ -22,12 +22,6 @@ An interactive evolutionary biology engine for constructing, editing, and visual
 
 ---
 
-## 📖 User Guide
-
-**Manual:** [`Guide/manual.png`](Guide/manual.png)
-
----
-
 ## 🚀 Platform
 
 * **Frontend:** HTML • CSS • JavaScript
