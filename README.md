@@ -18,7 +18,7 @@ An interactive evolutionary biology engine for constructing, editing, and visual
 * **Adjustable Timelines:** Modify evolutionary timelines instantly through the inline database matrix system.
 * **Tabbed Workspace:** Manage multiple organisms and evolutionary datasets using a browser-style tab interface.
 * **Evolutionary Mapping:** Explore lineage divergence from early amniotes to major vertebrate clades.
-* **Developer Tools:** Built-in debugging and live trait manipulation for rapid testing.
+* **Developer Tools:** Built-in debugging and live trait manipulation for rapid development and testing.
 
 ---
 
@@ -28,9 +28,9 @@ An interactive evolutionary biology engine for constructing, editing, and visual
 
 ---
 
-## 🚀 Build & Hosting
+## 🚀 Platform
 
-* **Built With:** HTML • CSS • JavaScript
+* **Frontend:** HTML • CSS • JavaScript
 * **Database & Asset Delivery:** Supabase
 * **Hosting:** GitHub Pages
 
