@@ -1,7 +1,7 @@
 # Evogen-Mapper
 
 <p align="center">
-  <img src="assets/repository-banner.png" alt="Evogen-Mapper" width="100%">
+  <img src="assets/banner.png" alt="Evogen-Mapper" width="100%">
 </p>
 
 **Phylogenetic Data Matrix Engine**
