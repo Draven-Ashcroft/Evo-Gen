@@ -1,30 +1,47 @@
 # Evogen-Mapper
 
 <p align="center">
-  <img src="assets/banner.png" alt="Evogen-Mapper" width="100%">
+  <img src="assets/banner.png" alt="Evogen-Mapper Banner" width="100%">
 </p>
 
 **Phylogenetic Data Matrix Engine**
 
-A modular, Supabase-hosted simulation engine for evolutionary biology. Built to visualize transitions from early amniotes to modern lineages (Dinosauria, Aves, Mammalia) through an interactive, live-editable data matrix.
+An interactive evolutionary biology engine for constructing, editing, and visualizing phylogenetic data matrices, cladograms, and lineage relationships through a modular browser-based interface.
 
 ---
 
-## Architecture
-* **Engine:** Modular, component-driven simulation framework.
-* **Storage:** Supabase PostgreSQL backend.
-* **Visualization:** Time-calibrated cladograms with live data nodes.
-* **Dev Mode:** Embedded instrumentation for real-time debugging and trait manipulation.
+## ✨ Features
 
-## Technical Stack
-| Feature | Status |
-| :--- | :--- |
-| **Backend** | Supabase |
-| **Data Flow** | Inline-Editable Matrix |
-| **Deployment** | Dev Mode Enabled |
-| **System** | Modular Architecture |
+* **Live Data Matrix:** Create and edit phylogenetic character matrices in real time.
+* **Interactive Cladograms:** Visualize branching relationships with time-calibrated evolutionary trees.
+* **Evolutionary Mapping:** Explore lineage divergence from early amniotes to major vertebrate clades.
+* **Modular Architecture:** Component-based framework designed for scalable scientific visualization.
+* **Developer Tools:** Built-in debugging and trait manipulation for rapid development and testing.
 
 ---
 
-## License
-**GPL-3.0 License**.
+## 📖 User Guide
+
+**Manual:** [`Guide/manual.png`](Guide/manual.png)
+
+---
+
+## 🚀 Built With & Hosted On
+
+* **Built With:** HTML • CSS • JavaScript
+* **Database & Asset Delivery:** Supabase
+* **Hosting:** GitHub Pages
+
+---
+
+## 📜 License
+
+GPL-3.0
+
+---
+
+## 👨‍🏫 Author
+
+**Draven Ashcroft**
+* M.Sc. Ag. Entomology, ASRB-NET
+* DIPS Chain of Institutions
